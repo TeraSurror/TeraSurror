@@ -12,4 +12,3 @@
 
 <br>
 
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31ghi4thgpl6s5cb32x6btaww6ry&cover_image=true&theme=default" />
