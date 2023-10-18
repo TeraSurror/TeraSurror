@@ -5,10 +5,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TeraSurror&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-- 🏋️‍♂️ Analyst at Deutsche Bank
-- 🏫 B.Tech in Information Technology
-- 🚀 Full Stack Developer
-- ☕ Always up for a cup of chai
+- Full Stack Developer
+- Ex - Deutsche Bank
+- Master of Computer Science at North Carolina State University
+- B.Tech in Information Technology
 
 <br>
 
