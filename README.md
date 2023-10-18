@@ -8,7 +8,7 @@
 - Full Stack Developer
 - Ex - Deutsche Bank
 - Master of Computer Science at North Carolina State University
-- B.Tech in Information Technology
+- B.Tech in Information Technology at Sardar Patel Institute of Technology
 
 <br>
 
